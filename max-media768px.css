@@ -112,7 +112,11 @@ gap: 5rem;
     height: 300px;
     width: 300px;
     border-radius: 50%;
-    box-shadow: 4px 4px 20px aqua, -4px -4px 20px aqua;
+    box-shadow: 4px 4px 10px aqua, -4px -4px 10px aqua;
+  }
+
+  .image img:hover{
+     box-shadow: 4px 4px 15px aqua, -4px -4px 15px aqua;
   }
   .home-left{
     padding: 20px;
